@@ -7,9 +7,8 @@ author:     "Hayer"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
+    - 旧存档
     - CS
-	- 旧存档
-    - 入门
 ---
 
 
@@ -225,3 +224,4 @@ c.run();//开汽车行走
 
 
 > 第一个例子里的解法一，就也违背了这个原则。而解法二遵循了这个原则。
+
